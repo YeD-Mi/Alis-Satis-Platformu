@@ -1,0 +1,17 @@
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\bin\Debug\alissatis-proje.exe.config
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\bin\Debug\alissatis-proje.exe
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\bin\Debug\alissatis-proje.pdb
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis-proje.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis_proje.Properties.Resources.resources
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis-proje.csproj.GenerateResource.cache
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis-proje.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis-proje.exe
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis-proje.pdb
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis_proje.kayit.resources
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis_proje.anasayfa.resources
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis_proje.girisform.resources
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis_proje.uyelikedit.resources
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis_proje.urunedit.resources
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis_proje.bakiyeyukle.resources
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\obj\Debug\alissatis_proje.Adminpanel.resources
+C:\Users\NSD\Desktop\Proje\alissatis-mryed\alissatis-proje\bin\Debug\alisveris.mdb
